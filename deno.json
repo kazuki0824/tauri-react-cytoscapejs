@@ -18,6 +18,9 @@
     }
   },
   "exclude": [
+    "dist/*",
+    "src-tauri/*",
+    "static",
     "**/_fresh/*"
   ],
   "imports": {
